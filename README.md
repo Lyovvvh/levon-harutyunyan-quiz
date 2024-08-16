@@ -1,4 +1,3 @@
-# Nersik_Militosyan_12HW
 
 PORT = 3000
 HESS_KEY = 'KUKU'
